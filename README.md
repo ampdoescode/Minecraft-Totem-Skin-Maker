@@ -6,7 +6,7 @@ I hade to remove the consel as the code was out dated and buggy
 
 
 
-## INCSTRUCTIONS:
+## INSTRUCTIONS:
 
 <details>
 <summary>
